@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nspcc-dev/rfc6979"
+	"github.com/TrueCloudLab/rfc6979"
 )
 
 type ecdsaFixture struct {
